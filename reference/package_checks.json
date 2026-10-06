@@ -1,0 +1,36 @@
+{
+  "python_3_11_syntax": true,
+  "small_model_checks": 24,
+  "report_validation_python_3_11": {
+    "models": 40,
+    "figures": 6
+  },
+  "notebook_outputs_cleared": true,
+  "raw_data_included": false,
+  "prepared_population_data_included": false,
+  "compatibility_fixes": [
+    "explicit CRS reprojection before combining spatial layers",
+    "Python 3.11-compatible f-string quote"
+  ],
+  "verification_note": "Python 3.11 syntax and small example tests; full 40-model reproduction previously verified with Python 3.12.",
+  "user_edited_notebook_used": true,
+  "source_notebook_sha256": "ec5ad5e83c4758ee31f203fc344d24e14b6803512dd743ce6cd5272b55bfd6aa",
+  "notebook_cells": 40,
+  "code_cells": 24,
+  "markdown_cells": 16,
+  "markdown_cells_preserved_verbatim": 14,
+  "markdown_edit_scope": "Only raw/prepared-data inclusion notices in cells 1 and 39 (zero-based).",
+  "code_edit_scope": "Only the Python 3.11 f-string fix in the embedded report module, cell 27 (zero-based).",
+  "notebook_and_module_sources_match": true,
+  "current_packaging_validation": "Fresh-folder Python 3.11 full notebook execution using the separate data ZIP.",
+  "full_analysis_with_separate_data": {
+    "python": "3.11.11",
+    "executed_cells": 24,
+    "basic_models_checked": 40,
+    "maximum_mean_distance_difference_m": 6.980371836107224e-11,
+    "same_selected_combinations": 40,
+    "raw_inputs_rebuilt": true,
+    "route_caches_supplied": false,
+    "all_passed": true
+  }
+}

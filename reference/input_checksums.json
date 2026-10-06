@@ -1,0 +1,38 @@
+[
+  {
+    "file": "data/raw/seoul_stores_202606.csv",
+    "sha256": "08d3fd08b37840256cccd4f09bad6fc33133b647cbff05f22f26fc962cf84152"
+  },
+  {
+    "file": "data/raw/seoul_convenience_202606.json",
+    "sha256": "e2042a9dc7200e4b23e6789d57bdf25bcd763440d01f73523f62982cca2500ff"
+  },
+  {
+    "file": "data/raw/seoul_smartmap_bins_20261004.json",
+    "sha256": "b944f3786cf433713e10d97a9689232346ace0606a8252048addb7fd79571e60"
+  },
+  {
+    "file": "data/raw/seoul_postboxes_search_20261004.json",
+    "sha256": "589332b80c9ff271ad54cc0a9a8646c344588de55172270e624526d8303c7060"
+  },
+  {
+    "file": "data/raw/seoul_bus_20260902.xlsx",
+    "sha256": "73eb0a5f4fd0f6128237b5e23fa361fd1c6d8a31a83bcee2884e6a48481852bb"
+  },
+  {
+    "file": "data/raw/sgis_seoul_population_2024.zip",
+    "sha256": "561bdb918425c347458519e8401aa1e2e329ae15569bd530203a125a8f91d2fc"
+  },
+  {
+    "file": "data/raw/bnd_dong_11_2025_2Q.zip",
+    "sha256": "47d946ef51f04aaac7deb00ea0edae1e63ded3a0e976c62c191b53a98c17a62b"
+  },
+  {
+    "file": "data/raw/bnd_oa_11_2025_2Q.zip",
+    "sha256": "3e812ef6133c1be3826530263a5b38fa63f9ed4ca43810d593162b58a3f864ac"
+  },
+  {
+    "file": "data/raw/grid_다사.zip",
+    "sha256": "e55fd93e5cc283e8ebf7907c1ffce03b4e8458e13c465058882a7f6dc2815231"
+  }
+]

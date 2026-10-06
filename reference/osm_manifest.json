@@ -1,0 +1,527 @@
+{
+  "areas": {
+    "bongcheon": {
+      "bbox": [
+        126.911,
+        37.447,
+        126.984,
+        37.508
+      ],
+      "tiles": [
+        3,
+        3
+      ]
+    },
+    "changsin_sungin": {
+      "bbox": [
+        126.994,
+        37.552,
+        127.035,
+        37.6
+      ],
+      "tiles": [
+        2,
+        3
+      ]
+    }
+  },
+  "files": [
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.925,
+        37.462,
+        126.9433333,
+        37.4773333
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.925,37.462,126.9433333,37.4773333",
+      "file": "data/raw/expanded_osm/bongcheon_0_0.osm",
+      "retrieved_at": "2026-10-04T13:48:09.697352+00:00",
+      "nodes": 9548,
+      "ways": 1165,
+      "sha256": "74d22211cf97a37750b8aa08a4097646b8a4ed983246c7b17e03f3f216574c76"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.925,
+        37.4773333,
+        126.9433333,
+        37.4926667
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.925,37.4773333,126.9433333,37.4926667",
+      "file": "data/raw/expanded_osm/bongcheon_0_1.osm",
+      "retrieved_at": "2026-10-04T13:48:15.424971+00:00",
+      "nodes": 17533,
+      "ways": 3032,
+      "sha256": "56f6fe04745ca6ade744444e560868642ae2f4650b17cbbeb589151dcf13d861"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.925,
+        37.4926667,
+        126.9433333,
+        37.508
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.925,37.4926667,126.9433333,37.508",
+      "file": "data/raw/expanded_osm/bongcheon_0_2.osm",
+      "retrieved_at": "2026-10-04T13:48:22.294019+00:00",
+      "nodes": 28776,
+      "ways": 4835,
+      "sha256": "6da5721aefc8264203d2d96a9ebc235c0a3316910a199a70558bea232a316ab7"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.9433333,
+        37.462,
+        126.9616667,
+        37.4773333
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.9433333,37.462,126.9616667,37.4773333",
+      "file": "data/raw/expanded_osm/bongcheon_1_0.osm",
+      "retrieved_at": "2026-10-04T13:48:26.248020+00:00",
+      "nodes": 10790,
+      "ways": 1155,
+      "sha256": "7c410c811c46b3db3e86c80106492badf0df63d67c57a80ac8d0033dfd359c33"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.9433333,
+        37.4773333,
+        126.9616667,
+        37.4926667
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.9433333,37.4773333,126.9616667,37.4926667",
+      "file": "data/raw/expanded_osm/bongcheon_1_1.osm",
+      "retrieved_at": "2026-10-04T13:48:31.516585+00:00",
+      "nodes": 17281,
+      "ways": 2954,
+      "sha256": "3824407f683b5d77a1e5d0157ac116aa63b80b45a1fdfbc282c3a680f2114816"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.9433333,
+        37.4926667,
+        126.9616667,
+        37.508
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.9433333,37.4926667,126.9616667,37.508",
+      "file": "data/raw/expanded_osm/bongcheon_1_2.osm",
+      "retrieved_at": "2026-10-04T13:48:36.419410+00:00",
+      "nodes": 19115,
+      "ways": 2797,
+      "sha256": "e8804b65789bb35e0a1f8bfe733658aa67991a158937d4b230fdb517ac2e0915"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.9616667,
+        37.462,
+        126.98,
+        37.4773333
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.9616667,37.462,126.98,37.4773333",
+      "file": "data/raw/expanded_osm/bongcheon_2_0.osm",
+      "retrieved_at": "2026-10-04T13:48:40.131265+00:00",
+      "nodes": 13801,
+      "ways": 2107,
+      "sha256": "5d93cc86a5fb7ecd2d6c51b148ccaa1ea877dea5ac44ec98d8c64f91bf8eda0d"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.9616667,
+        37.4773333,
+        126.98,
+        37.4926667
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.9616667,37.4773333,126.98,37.4926667",
+      "file": "data/raw/expanded_osm/bongcheon_2_1.osm",
+      "retrieved_at": "2026-10-04T13:48:43.311884+00:00",
+      "nodes": 6513,
+      "ways": 919,
+      "sha256": "2c19bfca05c072d44ff98df8b0e413a61ec4d86eca581dc644a009911bf27807"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.9616667,
+        37.4926667,
+        126.98,
+        37.508
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.9616667,37.4926667,126.98,37.508",
+      "file": "data/raw/expanded_osm/bongcheon_2_2.osm",
+      "retrieved_at": "2026-10-04T13:48:46.425483+00:00",
+      "nodes": 7075,
+      "ways": 856,
+      "sha256": "5208dc27f131e94abfa570217059fbd5b321d5df1fbadbf2d34629f059e4f3da"
+    },
+    {
+      "area": "changsin_sungin",
+      "bbox": [
+        126.994,
+        37.565,
+        127.0145,
+        37.5766667
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.994,37.565,127.0145,37.5766667",
+      "file": "data/raw/expanded_osm/changsin_sungin_0_0.osm",
+      "retrieved_at": "2026-10-04T13:48:54.873448+00:00",
+      "nodes": 28547,
+      "ways": 4546,
+      "sha256": "ca03a7c4a613cfe509e57b01d6cd2266fdc69b2fd50ffbfc891c135f1ff2d65f"
+    },
+    {
+      "area": "changsin_sungin",
+      "bbox": [
+        126.994,
+        37.5766667,
+        127.0145,
+        37.5883333
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.994,37.5766667,127.0145,37.5883333",
+      "file": "data/raw/expanded_osm/changsin_sungin_0_1.osm",
+      "retrieved_at": "2026-10-04T13:49:00.049907+00:00",
+      "nodes": 15008,
+      "ways": 1992,
+      "sha256": "7ab46bdadcf4cbf7a9d9b2721203f38bf747fb13012cfe28a4b9ebf01dea534b"
+    },
+    {
+      "area": "changsin_sungin",
+      "bbox": [
+        126.994,
+        37.5883333,
+        127.0145,
+        37.6
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.994,37.5883333,127.0145,37.6",
+      "file": "data/raw/expanded_osm/changsin_sungin_0_2.osm",
+      "retrieved_at": "2026-10-04T13:49:03.920171+00:00",
+      "nodes": 10087,
+      "ways": 1312,
+      "sha256": "d3bfeaf3c554b5908d2677910bc858721cc6a3083f554db9742c9166552d4984"
+    },
+    {
+      "area": "changsin_sungin",
+      "bbox": [
+        127.0145,
+        37.565,
+        127.035,
+        37.5766667
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=127.0145,37.565,127.035,37.5766667",
+      "file": "data/raw/expanded_osm/changsin_sungin_1_0.osm",
+      "retrieved_at": "2026-10-04T13:49:10.717930+00:00",
+      "nodes": 19307,
+      "ways": 3236,
+      "sha256": "f5466dbb43c42d197157bdb2de08c4209ca97affc37d1b03fccfd09d57357681"
+    },
+    {
+      "area": "changsin_sungin",
+      "bbox": [
+        127.0145,
+        37.5766667,
+        127.035,
+        37.5883333
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=127.0145,37.5766667,127.035,37.5883333",
+      "file": "data/raw/expanded_osm/changsin_sungin_1_1.osm",
+      "retrieved_at": "2026-10-04T13:49:16.279720+00:00",
+      "nodes": 14802,
+      "ways": 2211,
+      "sha256": "f535c276dd0e02188479f747bfbc61b2b625ddd8185f7bd5c5f43e9787a26895"
+    },
+    {
+      "area": "changsin_sungin",
+      "bbox": [
+        127.0145,
+        37.5883333,
+        127.035,
+        37.6
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=127.0145,37.5883333,127.035,37.6",
+      "file": "data/raw/expanded_osm/changsin_sungin_1_2.osm",
+      "retrieved_at": "2026-10-04T13:49:20.649992+00:00",
+      "nodes": 14237,
+      "ways": 1870,
+      "sha256": "b0a73c4b08a360de4f646643fcb06519c9c8cd11883987302f9a18cee1d4506a"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.911,
+        37.462,
+        126.925,
+        37.4773333
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.911,37.462,126.925,37.4773333",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_west_0_0.osm",
+      "retrieved_at": "2026-10-04T14:21:52.082355+00:00",
+      "nodes": 6961,
+      "ways": 516,
+      "sha256": "dc1690509790e89f35824ad487ecbb93f8f3e9a6d62a10abb63d64639a5e140f"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.911,
+        37.4773333,
+        126.925,
+        37.4926667
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.911,37.4773333,126.925,37.4926667",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_west_0_1.osm",
+      "retrieved_at": "2026-10-04T14:21:55.744013+00:00",
+      "nodes": 5915,
+      "ways": 793,
+      "sha256": "e86be26133129ccadc911548a4b9def1c2ba65d3da5b2582398f19aafb016372"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.911,
+        37.4926667,
+        126.925,
+        37.508
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.911,37.4926667,126.925,37.508",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_west_0_2.osm",
+      "retrieved_at": "2026-10-04T14:21:59.716639+00:00",
+      "nodes": 8023,
+      "ways": 1114,
+      "sha256": "017f05c5c8e089fd13b43b2a1b31697c6714a07752a72ca938e74425f6ac8266"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.911,
+        37.45,
+        126.92825,
+        37.462
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.911,37.45,126.92825,37.462",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_south_0_0.osm",
+      "retrieved_at": "2026-10-04T14:22:02.973430+00:00",
+      "nodes": 7700,
+      "ways": 590,
+      "sha256": "f3f4c83bb1dd26ddc5e919a802aa22989b9d8de1eb387a8b99e7db096db6af47"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.92825,
+        37.45,
+        126.9455,
+        37.462
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.92825,37.45,126.9455,37.462",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_south_1_0.osm",
+      "retrieved_at": "2026-10-04T14:22:05.477998+00:00",
+      "nodes": 4393,
+      "ways": 132,
+      "sha256": "6990398e7a6e18260cb743c1d17ef21f9d0bd4032cb3baaf3ffd34ca906a934b"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.9455,
+        37.45,
+        126.96275,
+        37.462
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.9455,37.45,126.96275,37.462",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_south_2_0.osm",
+      "retrieved_at": "2026-10-04T14:22:09.145624+00:00",
+      "nodes": 6945,
+      "ways": 675,
+      "sha256": "76ee5f613103e034cc2e1b6e22711827503e0fa61cc42bc586c61214de8273b2"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.96275,
+        37.45,
+        126.98,
+        37.462
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.96275,37.45,126.98,37.462",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_south_3_0.osm",
+      "retrieved_at": "2026-10-04T14:22:11.319002+00:00",
+      "nodes": 3615,
+      "ways": 55,
+      "sha256": "dbcbc8789cc2f4b9c7b8603b629b943d487a2a570de795748622044d72bd1319"
+    },
+    {
+      "area": "changsin_sungin",
+      "bbox": [
+        126.994,
+        37.552,
+        127.0076667,
+        37.565
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.994,37.552,127.0076667,37.565",
+      "file": "data/raw/expanded_osm/changsin_sungin_buffer_south_0_0.osm",
+      "retrieved_at": "2026-10-04T14:22:17.111310+00:00",
+      "nodes": 16660,
+      "ways": 2115,
+      "sha256": "43023de8e44a167d9ad27b8061d7dfc0d21c506caa0a26dc1ff2e84833e0ef23"
+    },
+    {
+      "area": "changsin_sungin",
+      "bbox": [
+        127.0076667,
+        37.552,
+        127.0213333,
+        37.565
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=127.0076667,37.552,127.0213333,37.565",
+      "file": "data/raw/expanded_osm/changsin_sungin_buffer_south_1_0.osm",
+      "retrieved_at": "2026-10-04T14:22:21.274333+00:00",
+      "nodes": 9941,
+      "ways": 1210,
+      "sha256": "f8f212c64e4203de7bd06b87e88142d36ab0081670fca07e7a6463288071f5cc"
+    },
+    {
+      "area": "changsin_sungin",
+      "bbox": [
+        127.0213333,
+        37.552,
+        127.035,
+        37.565
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=127.0213333,37.552,127.035,37.565",
+      "file": "data/raw/expanded_osm/changsin_sungin_buffer_south_2_0.osm",
+      "retrieved_at": "2026-10-04T14:22:25.186988+00:00",
+      "nodes": 10214,
+      "ways": 1513,
+      "sha256": "92a04adf3254dffeefe92b85a8369decfaaa0cf2e4e9a4d9bc90dbf027a31fe5"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.98,
+        37.45,
+        126.984,
+        37.4645
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.98,37.45,126.984,37.4645",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_east_fine_0_0.osm",
+      "retrieved_at": "2026-10-04T14:25:26.361763+00:00",
+      "nodes": 2339,
+      "ways": 35,
+      "sha256": "7bc9246cb3582c0e601be5729c91357600c9979a28c2aa8904c518ba3521da47"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.98,
+        37.4645,
+        126.984,
+        37.479
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.98,37.4645,126.984,37.479",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_east_fine_0_1.osm",
+      "retrieved_at": "2026-10-04T14:25:29.289139+00:00",
+      "nodes": 3831,
+      "ways": 242,
+      "sha256": "825cf356f66959e9624b16be7a538ecf48df0459042a79b1bd852c72b7617945"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.98,
+        37.479,
+        126.984,
+        37.4935
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.98,37.479,126.984,37.4935",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_east_fine_0_2.osm",
+      "retrieved_at": "2026-10-04T14:25:32.119950+00:00",
+      "nodes": 2564,
+      "ways": 335,
+      "sha256": "8ba334a1498226feec3fd8c43a88208a766198c6f24f6d926bc9b8769c64e0a3"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.98,
+        37.4935,
+        126.984,
+        37.508
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.98,37.4935,126.984,37.508",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_east_fine_0_3.osm",
+      "retrieved_at": "2026-10-04T14:25:34.632862+00:00",
+      "nodes": 2862,
+      "ways": 203,
+      "sha256": "37deeb85931f1965b615c758321466e53c8d7230f004f7f0fa756ac7e42abb62"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.911,
+        37.447,
+        126.92925,
+        37.45
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.911,37.447,126.92925,37.45",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_south_fine_0_0.osm",
+      "retrieved_at": "2026-10-04T14:25:36.940723+00:00",
+      "nodes": 3544,
+      "ways": 229,
+      "sha256": "253489375abb72a80f6a079439bcd0fb73b80fd97f035e97e7b3505492652e2e"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.92925,
+        37.447,
+        126.9475,
+        37.45
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.92925,37.447,126.9475,37.45",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_south_fine_1_0.osm",
+      "retrieved_at": "2026-10-04T14:25:38.621922+00:00",
+      "nodes": 1122,
+      "ways": 35,
+      "sha256": "3dac2a2c5b697bc18e1ccb5b3e5cc89d519d5874804c3fbb55b1ce8be7afbf19"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.9475,
+        37.447,
+        126.96575,
+        37.45
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.9475,37.447,126.96575,37.45",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_south_fine_2_0.osm",
+      "retrieved_at": "2026-10-04T14:25:40.629973+00:00",
+      "nodes": 3058,
+      "ways": 77,
+      "sha256": "0b82d20874990469779ba318b4a452267040d4c915c0a6faf0ad4036bf8b6eb1"
+    },
+    {
+      "area": "bongcheon",
+      "bbox": [
+        126.96575,
+        37.447,
+        126.984,
+        37.45
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=126.96575,37.447,126.984,37.45",
+      "file": "data/raw/expanded_osm/bongcheon_buffer_south_fine_3_0.osm",
+      "retrieved_at": "2026-10-04T14:25:41.013194+00:00",
+      "nodes": 1082,
+      "ways": 16,
+      "sha256": "b110cf8eb470304a2d7ad1dcc4f0d318e7bfd44b368dbf0b591a4b66b5e93900"
+    }
+  ],
+  "license": "© OpenStreetMap contributors, ODbL 1.0 https://www.openstreetmap.org/copyright",
+  "buffer_reason": "Initial resident cohorts excluded 9.3% and 1.6% near extraction edges; south/west buffers extended before reporting."
+}
